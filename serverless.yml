@@ -1,3 +1,5 @@
+org: apayo
+app: serverless-rest-api-with-dynamodb-app
 service: serverless-rest-api-with-dynamodb
 
 frameworkVersion: ">=1.1.0"
